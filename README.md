@@ -1,4 +1,4 @@
-# 🎬 Movie Ticket Booking Website (BookMyShow Clone)
+# 🎬 Movie Ticket Booking Website 
 
 An interactive and user-friendly Movie Ticket Booking Platform built with **React, TypeScript, and Tailwind CSS**. This application provides a seamless movie booking experience, allowing users to explore movies, select seats, choose show timings, and complete bookings through a modern payment interface.
 
